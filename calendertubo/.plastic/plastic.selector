@@ -1,0 +1,4 @@
+repository "tubocalender@tubop2hack@cloud"
+  path "/"
+    smartbranch "/main"                
+     
